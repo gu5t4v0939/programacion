@@ -127,6 +127,6 @@ package.json
 
 ---
 
-Proyecto diseñado por: Gustavo & equipo.
+Proyecto diseñado por: Gustavo
 Frontend completo y funcional.
 Listo para conexión con backend y base de datos.
